@@ -29,4 +29,4 @@
 - Python 3, PyTorch, NumPy, Pillow
 
 ### Related Work:
-[Pablo Navarrete Michelini, Hanwen Liu and Dan Zhu, "Mutigrid Backprojection Super-Resolution and Deep Filter Visualization", to appear in the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19)](https://www.researchgate.net/publication/327979709_Multi-Scale_Recursive_and_Perception-Distortion_Controllable_Image_Super-Resolution)
+[Pablo Navarrete Michelini, Hanwen Liu and Dan Zhu, "Mutigrid Backprojection Super-Resolution and Deep Filter Visualization", to appear in the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19)](https://www.researchgate.net/publication/327881763_Mutigrid_Backprojection_Super-Resolution_and_Deep_Filter_Visualization)
